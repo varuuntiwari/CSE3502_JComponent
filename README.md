@@ -1,7 +1,8 @@
 # CSE3502_JComponent
 Install [VS Code](https://code.visualstudio.com/Download) and [Git](https://git-scm.com/downloads).
 To start on the web app and contributing to this repository, you guys need to start learning:
-## [HTML and CSS](https://youtu.be/-8LTPIJBGwQ)
+## HTML and CSS
+- [HTML and CSS](https://youtu.be/-8LTPIJBGwQ)
 ## JS ES6 version
 - [JavaScript](https://youtu.be/PkZNo7MFNFg)
 - [ES6](https://youtu.be/nZ1DMMsyVyI)
